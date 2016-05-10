@@ -1,3 +1,2 @@
 Danas je lep dan.
-Ucimo git
-I nemamo pojma
+Ucimo javu
